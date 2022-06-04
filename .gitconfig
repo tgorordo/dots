@@ -1,0 +1,17 @@
+[init]
+	defaultBranch = main
+[user]
+	email = tcgorordo@gmail.com
+	name = Thomas (Tom) C. Gorordo
+[url "https://github.com/"]
+	insteadOf = gh
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[url "https://gist.github.com"]
+	insteadOf = gs
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[url "https://gitlab.com/"]
+	insteadOf = gl
