@@ -3,7 +3,7 @@
 [user]
 	email = tcgorordo@gmail.com
 	name = Thomas (Tom) C. Gorordo
-	signingkey = tcgorordo@gmail.com #0CBED22BB0D94490
+	signingkey = tcgorordo@gmail.com # 0CBED22BB0D94490
 [commit]
 	gpgsign = true
 [gpg]
